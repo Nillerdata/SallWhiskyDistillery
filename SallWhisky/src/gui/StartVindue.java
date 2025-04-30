@@ -35,7 +35,7 @@ public class StartVindue extends Application {
     //Opret knapper
     Button btnOpretFad, btnOpretDestillering;
 
-    Font font = Font.font("Times New Roman", FontWeight.BLACK, FontPosture.REGULAR, 80);
+    Font font = Font.font("Times New Roman", FontWeight.BLACK, FontPosture.REGULAR, 50);
 
     public void initContent (GridPane pane){
         pane.setPadding(new Insets(25));
