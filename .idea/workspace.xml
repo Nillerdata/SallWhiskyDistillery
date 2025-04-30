@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="150529f2-59a6-4266-b1a6-965ee01f2682" name="Changes" comment="starte dagen">
+      <change afterPath="$PROJECT_DIR$/SallWhisky/src/controller/Storage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SallWhisky/src/model/Destillat.java" beforeDir="false" afterPath="$PROJECT_DIR$/SallWhisky/src/model/Destillat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SallWhisky/src/storage/Storage.java" beforeDir="false" afterPath="$PROJECT_DIR$/SallWhisky/src/storage/ListStorage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +26,7 @@
       <list>
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -60,15 +63,15 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_ASCENDING" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Dev&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -88,6 +91,7 @@
     <MESSAGE value="Destillat og enum kornsort" />
     <MESSAGE value="afslutte dagen" />
     <MESSAGE value="starte dagen" />
-    <option name="LAST_COMMIT_MESSAGE" value="starte dagen" />
+    <MESSAGE value="Destillat&#10;Klassemetode&#10;antalÅrLagret" />
+    <option name="LAST_COMMIT_MESSAGE" value="Destillat&#10;Klassemetode&#10;antalÅrLagret" />
   </component>
 </project>
