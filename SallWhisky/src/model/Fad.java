@@ -41,4 +41,7 @@ public class Fad {
     public String getTidligereIndhold() {
         return tidligereIndhold;
     }
+
+
+
 }
