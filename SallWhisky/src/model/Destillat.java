@@ -55,4 +55,13 @@ public class Destillat {
     public void setKommentar(String kommentar) {
         this.kommentar = kommentar;
     }
+    //-----------------------------------------------------
+    //Klasse metoder
+    //TODO
+    public double antalÅrLagret(Fad fad){
+        double antalÅr = 0.0;
+
+
+        return
+    }
 }
