@@ -1,6 +1,8 @@
 package model;
 
-public class Fad {
+import java.io.Serializable;
+
+public class Fad implements Serializable {
 
     private String træType;
     private int antalGangeBrugt;
