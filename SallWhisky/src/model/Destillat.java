@@ -1,11 +1,12 @@
 package model;
 
+import java.io.Serializable;
 import java.time.Duration;
 import java.time.LocalDate;
 import java.time.Period;
 import java.time.temporal.ChronoUnit;
 
-public class Destillat {
+public class Destillat implements Serializable {
     private int maltbatch;
     private LocalDate startDato;
     private LocalDate slutDato;

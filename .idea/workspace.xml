@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="150529f2-59a6-4266-b1a6-965ee01f2682" name="Changes" comment="starte dagen">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SallWhisky/src/model/Destillat.java" beforeDir="false" afterPath="$PROJECT_DIR$/SallWhisky/src/model/Destillat.java" afterDir="false" />
-    </list>
+    <list default="true" id="150529f2-59a6-4266-b1a6-965ee01f2682" name="Changes" comment="starte dagen" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
