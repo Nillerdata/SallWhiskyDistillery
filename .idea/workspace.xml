@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="150529f2-59a6-4266-b1a6-965ee01f2682" name="Changes" comment="afslutte dagen" />
+    <list default="true" id="150529f2-59a6-4266-b1a6-965ee01f2682" name="Changes" comment="starte dagen">
+      <change afterPath="$PROJECT_DIR$/SallWhisky/src/controller/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SallWhisky/src/model/Destillat.java" beforeDir="false" afterPath="$PROJECT_DIR$/SallWhisky/src/model/Destillat.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,21 +38,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Nillerdata"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nillerdata&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Nillerdata/SallWhiskyDistillery.git",
-    "accountId": "215d4787-31c4-4e6d-a8dd-d4ca0e614cbb"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Nillerdata/SallWhiskyDistillery.git&quot;,
+    &quot;accountId&quot;: &quot;215d4787-31c4-4e6d-a8dd-d4ca0e614cbb&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2wOspmJPKehTq1k4Cs3QmqGZefp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -62,7 +65,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Dev",
     "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
@@ -84,6 +87,7 @@
     <MESSAGE value="Batman" />
     <MESSAGE value="Destillat og enum kornsort" />
     <MESSAGE value="afslutte dagen" />
-    <option name="LAST_COMMIT_MESSAGE" value="afslutte dagen" />
+    <MESSAGE value="starte dagen" />
+    <option name="LAST_COMMIT_MESSAGE" value="starte dagen" />
   </component>
 </project>
