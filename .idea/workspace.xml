@@ -4,22 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e8701a1-058d-4279-ae07-b4a2b776c582" name="Changes" comment="abstract controller" />
+    <list default="true" id="150529f2-59a6-4266-b1a6-965ee01f2682" name="Changes" comment="starte dagen">
+      <change afterPath="$PROJECT_DIR$/SallWhisky/src/controller/Storage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SallWhisky/src/model/Destillat.java" beforeDir="false" afterPath="$PROJECT_DIR$/SallWhisky/src/model/Destillat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SallWhisky/src/storage/Storage.java" beforeDir="false" afterPath="$PROJECT_DIR$/SallWhisky/src/storage/ListStorage.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="deveJeppe" />
+    <option name="BRANCH" value="Dev" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -32,41 +44,54 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;JeppeFricke&quot;
+    &quot;assignee&quot;: &quot;Nillerdata&quot;
   }
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Nillerdata/SallWhiskyDistillery.git&quot;,
-    &quot;accountId&quot;: &quot;e7e23ab1-4958-4e27-8520-01f75db81c95&quot;
+    &quot;accountId&quot;: &quot;215d4787-31c4-4e6d-a8dd-d4ca0e614cbb&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
+  &quot;associatedIndex&quot;: 4
 }</component>
-  <component name="ProjectId" id="2wOudwHigCPciZjWR5LhCVBkL34" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectId" id="2wOspmJPKehTq1k4Cs3QmqGZefp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "devejeppe",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fad" />
-    <MESSAGE value="controller" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Batman" />
+    <MESSAGE value="Destillat og enum kornsort" />
+    <MESSAGE value="afslutte dagen" />
     <MESSAGE value="starte dagen" />
-    <MESSAGE value="abstract controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="abstract controller" />
+    <MESSAGE value="Destillat&#10;Klassemetode&#10;antalÅrLagret" />
+    <option name="LAST_COMMIT_MESSAGE" value="Destillat&#10;Klassemetode&#10;antalÅrLagret" />
   </component>
 </project>
