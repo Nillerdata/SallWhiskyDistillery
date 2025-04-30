@@ -1,6 +1,9 @@
 package model;
 
+import java.time.Duration;
 import java.time.LocalDate;
+import java.time.Period;
+import java.time.temporal.ChronoUnit;
 
 public class Destillat {
     private int maltbatch;
@@ -55,13 +58,17 @@ public class Destillat {
     public void setKommentar(String kommentar) {
         this.kommentar = kommentar;
     }
-    //-----------------------------------------------------
+    //----------------------------------
     //Klasse metoder
-    //TODO
-    public double antalÅrLagret(Fad fad){
-        double antalÅr = 0.0;
-
-
-        return
+    public int AntalÅrLagret(){
+        int antalÅr;
+        if(startDato == null|| slutDato == null){
+            throw new IllegalArgumentException("Datoerne er null");
+        }
+        if(slutDato.isBefore(startDato)){
+            throw new IllegalArgumentException("slutdatoen er før startDato");
+        }
+       antalÅr = (int) ChronoUnit.YEARS.between(startDato,slutDato);
+        return antalÅr;
     }
 }
